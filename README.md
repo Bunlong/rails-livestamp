@@ -1,5 +1,7 @@
 # rails-livestamp [![Gem Version](https://badge.fury.io/rb/rails-livestamp.svg)](http://badge.fury.io/rb/rails-livestamp)
 
+The rails-livestamp is a simple, unobtrusive jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements.
+
 The rails-livestamp will update automatically as time goes by. ISO 8601 timestamps are also supported. 
 
 ## Installation
