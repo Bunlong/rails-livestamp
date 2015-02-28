@@ -1,6 +1,6 @@
 # rails-livestamp [![Gem Version](https://badge.fury.io/rb/rails-livestamp.svg)](http://badge.fury.io/rb/rails-livestamp)
 
-The livestamp will update automatically as time goes by. ISO 8601 timestamps are also supported. 
+The rails-livestamp will update automatically as time goes by. ISO 8601 timestamps are also supported. 
 
 ## Installation
 
