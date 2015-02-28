@@ -33,3 +33,9 @@ You discovered rails-livestamp a minutes ago.
 ```
 
 Wait half a minute - the livestamp will update automatically.
+
+## License
+
+[MIT License](http://www.opensource.org/licenses/mit-license.php)
+
+Copyright (c) 2015, Bunlong VAN
