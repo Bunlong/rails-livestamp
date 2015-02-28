@@ -18,6 +18,12 @@ Or install it yourself as:
 
     $ gem install rails-livestamp
 
+To use rails-livestamp add this require statement to your application.js file:
+
+```ruby
+//= require rails-livestamp
+```
+
 ## Usage
 
 No extra JavaScript required! Just use a <span> with the data-livestamp attribute set to the desired Unix timestamp (in seconds), like this:
