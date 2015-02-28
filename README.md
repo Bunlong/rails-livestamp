@@ -23,13 +23,13 @@ Or install it yourself as:
 No extra JavaScript required! Just use a <span> with the data-livestamp attribute set to the desired Unix timestamp (in seconds), like this:
 
 ```ruby
-You discovered Livestamp.js <span data-livestamp="#{Time.now.to_i}"></span>.
+You discovered rails-livestamp <span data-livestamp="#{Time.now.to_i}"></span>.
 ```
 
 And you will see something like this:
 
 ```ruby
-You discovered Livestamp.js a minutes ago. 
+You discovered rails-livestamp a minutes ago. 
 ```
 
 Wait half a minute - the livestamp will update automatically.
