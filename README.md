@@ -42,6 +42,10 @@ You discovered rails-livestamp a minutes ago.
 
 Wait half a minute - the livestamp will update automatically.
 
+## More Documentation.
+
+See the [livestamp documentation](http://mattbradley.github.io/livestampjs/).
+
 ## License
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
