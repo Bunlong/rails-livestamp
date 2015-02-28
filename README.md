@@ -46,4 +46,6 @@ Wait half a minute - the livestamp will update automatically.
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
 
-Copyright (c) 2015, Bunlong VAN
+Ofii
+
+Copyright (c) 2015, [Anders D. Johnson (Livestamp.js Developer)](https://github.com/adjohnson916) and [Bunlong VAN (rails-livestamp Developer)](https://github.com/Bunlong)
