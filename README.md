@@ -9,7 +9,6 @@ Add this line to your application's Gemfile:
 ```ruby
 gem 'rails-livestamp', '~> 1.1.3'
 ```
-
 And then execute:
 
     $ bundle
@@ -37,7 +36,8 @@ You discovered rails-livestamp <span data-livestamp="#{Time.now.to_i}"></span>.
 If you use HAML:
 
 ```ruby
-You discovered rails-livestamp %span{"data-livestamp" => "#{Time.now.to_i}"}.
+You discovered rails-livestamp 
+%span{"data-livestamp" => "#{Time.now.to_i}"}.
 ```
 
 And you will see something like this:
