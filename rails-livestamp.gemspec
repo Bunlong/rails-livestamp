@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Bunlong"]
   spec.email         = ["bunlong.van@gmail.com"]
 
-  spec.summary       = %q{The rails-livestamp is a simple, unobtrusive jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements, will update automatically as time goes by. ISO 8601 timestamps are also supported.}
-  spec.description   = %q{The rails-livestamp is a simple, unobtrusive jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements, will update automatically as time goes by. ISO 8601 timestamps are also supported.}
+  spec.summary       = %q{The rails-livestamp is a simple jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements, which will update automatically as time goes by. ISO 8601 timestamps are also supported.}
+  spec.description   = %q{The rails-livestamp is a simple jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements, which will update automatically as time goes by. ISO 8601 timestamps are also supported.}
   spec.homepage      = "https://github.com/Bunlong/rails-livestamp"
   spec.license       = "MIT"
 

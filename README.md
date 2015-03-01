@@ -7,7 +7,7 @@ The rails-livestamp is a simple, unobtrusive jQuery plugin that provides auto-up
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rails-livestamp'
+gem 'rails-livestamp', '~> 1.1.3'
 ```
 
 And then execute:
