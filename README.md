@@ -1,6 +1,6 @@
 # rails-livestamp [![Gem Version](https://badge.fury.io/rb/rails-livestamp.svg)](http://badge.fury.io/rb/rails-livestamp)
 
-The rails-livestamp is a simple, unobtrusive jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements, which will update automatically as time goes by. ISO 8601 timestamps are also supported. 
+The rails-livestamp is a simple jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements, which will update automatically as time goes by. ISO 8601 timestamps are also supported.
 
 ## Installation
 
@@ -26,10 +26,18 @@ To use rails-livestamp add this require statement to your application.js file:
 
 ## Usage
 
-No extra JavaScript required! Just use a <span> with the data-livestamp attribute set to the desired Unix timestamp (in seconds), like this:
+No extra JavaScript required! Just use a `<span>` with the data-livestamp attribute set to the desired Unix timestamp (in seconds), like this:
+
+If you use ERB:
 
 ```ruby
 You discovered rails-livestamp <span data-livestamp="#{Time.now.to_i}"></span>.
+```
+
+If you use HAML:
+
+```ruby
+You discovered rails-livestamp %span{"data-livestamp" => "#{Time.now.to_i}"}.
 ```
 
 And you will see something like this:
