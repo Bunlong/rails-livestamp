@@ -56,4 +56,4 @@ See the [livestamp documentation](http://mattbradley.github.io/livestampjs/).
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
 
-Copyright (c) 2015 - Present, [Matt Bradley (Livestamp.js Maintainer)](https://github.com/mattbradley), [Bunlong VAN (rails-livestamp Maintainer)](https://github.com/Bunlong)
+Copyright (c) 2015 - Present, [Matt Bradley ( Livestamp.js Maintainer )](https://github.com/mattbradley), [Bunlong VAN](https://github.com/Bunlong) ( Maintainer )
